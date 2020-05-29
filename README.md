@@ -1,2 +1,1 @@
-# middleware-module
-node module with middleware functions
+A test module for Lab 4
